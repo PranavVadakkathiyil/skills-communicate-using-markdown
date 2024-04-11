@@ -4,3 +4,5 @@
 #### heading 4 for <h4>
 ##### heading 5 for <h5>
 ###### heading 6 for <h6>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
